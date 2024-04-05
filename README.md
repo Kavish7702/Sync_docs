@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-"C:\Users\ASUS\Pictures\Screenshots\Screenshot 2024-04-05 111811.png"
+![Screenshot 2024-04-05 111811](https://github.com/Kavish7702/Sync_docs/assets/143951389/1c42a63c-4c54-46c1-980a-24032d5439e2)
 
 ## Available Scripts
 
